@@ -2,7 +2,7 @@
 
 **Business intelligence dashboard built entirely in Excel Web**
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](screenshots/dashboard.jpeg)
 
 ## Project Overview
 
@@ -167,13 +167,13 @@ connectretail-excel-analysis/
 ## Visual Samples
 
 ### Dashboard Overview
-![Full Dashboard](screenshots/dashboard.png)
+![Full Dashboard](screenshots/dashboard.jpeg)
 
 ### Discount Impact Heatmap
 ![Heatmap](screenshots/discount-heatmap.png)
 
 ### Customer Segmentation
-![Segments](screenshots/customer-segments.png)
+![Segments](screenshots/customer-segmentation1.png)
 
 ## Project Timeline
 
