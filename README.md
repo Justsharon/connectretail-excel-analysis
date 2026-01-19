@@ -13,10 +13,9 @@ Comprehensive profitability analysis of a US-based office supplies and furniture
 ##  Business Problem
 
 ConnectRetail faced a critical profitability issue:
-- Revenue grew 12% YoY
-- Profit grew only 3% YoY (75% slower growth)
-- Returns increased 18%
-- Unknown sources of margin leakage
+    1. Sales volume was healthy.
+    2. Orders were coming in.
+    3. Top-line performance looked strong.
 
 **Question:** Why is profit growing slower than revenue, and where are we losing margin?
 
